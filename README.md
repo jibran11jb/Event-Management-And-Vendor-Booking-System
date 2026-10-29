@@ -4,21 +4,14 @@ Final Year Project - Event Management and Vendor Booking System
 
 A full-stack web platform that connects customers with event vendors. Customers can browse, book, and pay for events, vendors manage their own listings and bookings through a dedicated portal, and admins oversee the whole system from a dashboard.
 
-## Live Preview
+## Live Demo
 
-**Frontend (Vercel):** https://event-management-and-vendor-booking.vercel.app
+| App | Link |
+|-----|------|
+| Customer website (frontend) | https://event-management-and-vendor-booking.vercel.app |
+| Vendor portal (frontend) | https://vendorview-self.vercel.app |
 
-> **Note:** This is a frontend-only preview. The backend is not hosted yet, so signup, login, and booking will not work on the live link. To use the complete system, run the project locally by following the [Getting Started](#getting-started) steps below.
-
-## Screenshots and Demo
-
-Add your screenshots to a `screenshots/` folder in the repo and link them here:
-
-| Customer Home | Event Details | Vendor Portal | Admin Dashboard |
-|---|---|---|---|
-| ![Home](screenshots/home.png) | ![Event](screenshots/event.png) | ![Vendor](screenshots/vendor.png) | ![Admin](screenshots/admin.png) |
-
-**Demo video:** add your YouTube or LinkedIn link here
+> **Note:** These are frontend-only previews hosted on Vercel. The backend is not hosted yet, so signup, login, and booking will not work on the live links. To use the complete system, run the project locally by following the [Getting Started](#getting-started) steps below.
 
 ## Features
 
@@ -113,7 +106,7 @@ For a detailed walkthrough and troubleshooting tips, see [SETUP_GUIDE.txt](SETUP
 
 ## Author
 
-**Jibran**
+**Jibran Najeeb**
 BS Computer Science, COMSATS University Islamabad (Abbottabad Campus)
 GitHub: [jibran11jb](https://github.com/jibran11jb)
 LinkedIn: [Jibran Najeeb](https://www.linkedin.com/in/jibran-najeeb-a0219234a)
